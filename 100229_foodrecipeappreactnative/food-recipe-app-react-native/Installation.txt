@@ -1,0 +1,8 @@
+Follow these steps to successfully run this project:
+- run "npm install"
+- run "npm run start"
+
+If you stuck somewhere contact me on buymeacoffee.com.
+
+I'm using TheMealDB API (https://www.themealdb.com/api.php).
+This API is only for educational purposes, if you are releasing this app publicaly on an appstore, then you need to contact to TheMealDB(https://www.themealdb.com/)
