@@ -26,7 +26,7 @@ export default function WelcomeScreen() {
       300
     );
 
-    setTimeout(() => navigation.navigate("Home"), 2500);
+    setTimeout(() => navigation.navigate("Home"), 55000);
   }, []);
   return (
     <View className="items-center justify-center flex-1 space-y-10 bg-amber-500">
@@ -54,7 +54,7 @@ export default function WelcomeScreen() {
           style={{ fontSize: hp(3) }}
           className="font-bold tracking-widest text-white"
         >
-          කෑම වට්ටෝරු පොත
+          Recipe Book
         </Text>
         <Text
           style={{ fontSize: hp(2) }}

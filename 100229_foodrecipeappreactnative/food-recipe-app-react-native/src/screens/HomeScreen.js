@@ -32,6 +32,7 @@ export default function HomeScreen() {
       );
       // console.log('got categories: ',response.data);
       if (response && response.data) {
+        //console.log(response);
         setCategories(response.data.categories);
       }
     } catch (err) {
